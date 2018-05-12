@@ -1,0 +1,27 @@
+_repo: Zoe_30366
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 30366-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Whitaker, Evelyn
+    birthdate: 1857
+    deathdate: 1903
+    gutenberg_agent_id: '34555'
+    url: http://www.gutenberg.org/2009/agents/34555
+    wikipedia: http://en.wikipedia.org/wiki/Evelyn_Whitaker
+description: ''
+gutenberg_issued: '2009-10-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30366'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Foundlings -- Fiction'
+- !lcc 'PR'
+title: Zoe
+url: http://www.gutenberg.org/ebooks/30366
