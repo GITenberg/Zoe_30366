@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34555
     wikipedia: http://en.wikipedia.org/wiki/Evelyn_Whitaker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30366#Zoe
 gutenberg_issued: '2009-10-30'
 gutenberg_type: Text
 identifiers:
